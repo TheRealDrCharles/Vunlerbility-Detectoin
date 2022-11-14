@@ -1,4 +1,4 @@
-# VDHE: Vulnerability Detection with High Performance and Extensibility
+# VDMP: Vulnerability Detection with Metric learning and Bi-Phased LSTM
 
 **main files**: helper.ipynb for C++ based datasets, helper_python.ipynb for python based datasets
 
